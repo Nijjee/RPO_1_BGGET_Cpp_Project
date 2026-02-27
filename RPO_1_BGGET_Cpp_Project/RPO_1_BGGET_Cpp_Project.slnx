@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="RPO_1_BGGET_Cpp_Project/RPO_1_BGGET_Cpp_Project.vcxproj" />
+  <Project Path="RPO_1_BGGET_Cpp_Project/RPO_1_BGGET_Cpp_Project.vcxproj" Id="4840282d-8e4f-4575-a1b3-b614c0304eaa" />
 </Solution>

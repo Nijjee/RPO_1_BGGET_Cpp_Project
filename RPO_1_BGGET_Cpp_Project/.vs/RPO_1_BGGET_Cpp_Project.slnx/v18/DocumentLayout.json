@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\MyGitColledg\\RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4840282D-8E4F-4575-A1B3-B614C0304EAA}|RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project.vcxproj|D:\\MyGitColledg\\RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project\\GladchenkoTestFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4840282D-8E4F-4575-A1B3-B614C0304EAA}|RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project.vcxproj|solutionrelative:RPO_1_BGGET_Cpp_Project\\GladchenkoTestFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4840282D-8E4F-4575-A1B3-B614C0304EAA}|RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project.vcxproj|D:\\MyGitColledg\\RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4840282D-8E4F-4575-A1B3-B614C0304EAA}|RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project.vcxproj|solutionrelative:RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GladchenkoTestFile.cpp",
+              "DocumentMoniker": "D:\\MyGitColledg\\RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project\\GladchenkoTestFile.cpp",
+              "RelativeDocumentMoniker": "RPO_1_BGGET_Cpp_Project\\GladchenkoTestFile.cpp",
+              "ToolTip": "D:\\MyGitColledg\\RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project\\GladchenkoTestFile.cpp",
+              "RelativeToolTip": "RPO_1_BGGET_Cpp_Project\\GladchenkoTestFile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-27T06:46:01.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RPO_1_BGGET_Cpp_Project.cpp",
               "DocumentMoniker": "D:\\MyGitColledg\\RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project.cpp",
               "RelativeDocumentMoniker": "RPO_1_BGGET_Cpp_Project\\RPO_1_BGGET_Cpp_Project.cpp",

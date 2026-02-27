@@ -18,5 +18,8 @@
     <ClCompile Include="RPO_1_BGGET_Cpp_Project.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="GladchenkoTestFile.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
